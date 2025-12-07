@@ -104,9 +104,9 @@ The project follows a **Kimball Dimensional Modeling approach**:
 - State‑wise contribution  
 
 Advanced SQL features used: 
-✔ Window functions  
-✔ Aggregations  
-✔ Ranking functions  
+✔ Window functions
+✔ Aggregations
+✔ Ranking functions
 ✔ Subqueries
 ✔ CTE (Common Table Expressions)
 ✔ Date filtering  
